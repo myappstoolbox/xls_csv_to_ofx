@@ -1,4 +1,4 @@
-Read this in [English](README.pt-BR.md).
+Leia em [Português](README.pt-BR.md).
 
 # XLS, CSV to OFX
 
