@@ -1,3 +1,5 @@
+Read this in [English](README.md).
+
 # XLS, CSV para OFX
 
 ## Funcionalidades
